@@ -1,5 +1,8 @@
 # vue3-posts
 
+# vue3 실전편 강의입니다.
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
